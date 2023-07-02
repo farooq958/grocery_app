@@ -1,4 +1,4 @@
-# grocery_prokit
+# grocery
 
 A new Flutter project.
 
